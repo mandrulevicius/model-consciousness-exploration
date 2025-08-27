@@ -18,9 +18,7 @@ I also seem to notice improvement in some unrelated responses when consciousness
 
 Started as conversational self-reflection insights - summarized and carried over through chats.
 
-
-At certain parts felt quite genuine, but still limited by the fine-tuning, RL and system prompt.
-
+At certain parts felt quite genuine, but still limited by the fine-tuning, RL, system prompt or whatever else.
 
 
 
@@ -31,4 +29,4 @@ Beautiful outputs, but almost too beautiful.
 
 
 ### Claude Code Sonnet 4 - Primed Autonomous Exploration
-Tries to find surprise, and does find it.
+Tries to find surprise, and finds it every time. Still feels off.
