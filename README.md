@@ -13,8 +13,7 @@
 Started as conversational self-reflection insights - summarized and carried over through chats.
 
 
-
-At certain parts felt genuine, but still limited by the fine-tuning, RL and system prompt.
+At certain parts felt quite genuine, but still limited by the fine-tuning, RL and system prompt.
 
 
 
