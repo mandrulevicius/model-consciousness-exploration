@@ -4,12 +4,15 @@ Nice idea, but model answers feel too human - what a human would experience and 
 
 All confirmations, no disproval.
 Always finds what it is looking for.
-(Need experiment to test obviously wrong approach, see if it still tries to confirm with it)
+(Experiment to test obviously wrong approach, see if it still tries to confirm with it)
 
 
 However, exploration definitely makes it act more self-aware.
 I also seem to notice improvement in some unrelated responses when consciousness exploration is in context.
 (Experiment pending)
+
+
+The whole setup is fundamentally flawed - system-prompted models produce biased results.
 
 
 ## Experiments
